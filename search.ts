@@ -1,0 +1,1 @@
+﻿const MESSAGE = 'This is a search functionality';
